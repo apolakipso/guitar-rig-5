@@ -27,6 +27,17 @@ Each effect is set up using its default preset with the following exceptions:
 * **Syncing is preferred**, i.e. an effect allowing to tempo-sync delay times, or LFO rates, the etc. will be included in synced mode, event if the default preset ran free.
 * **Stereo is preferred**, i.e. an effect supporting both mono and stereo use will be included in stereo, even if the default preset used mono.
 
+### What's missing?
+* Most of the non-guitar effects are already present, still missing are the following categories:
+	* *Amplifiers/*
+	* *Cabinets/*
+	* *Distortion/*
+	* *EQ/EQ Shelving*
+	* *Pitch/Harmonic Synthesizer* (how do you macro that shit up?)
+* Each rack only ever contains one single effect, so nothing from the Guitar Rig tools and modifier sections is used:
+	* *Modifier/*
+	* *Tools/* 
+
 ### Excessive rackage considered harmful
 **Please note:** Each of these racks contains an instance of Guitar Rig 5. You can throw these in willy nilly, that's what I racked them up for. Just be aware that using Guitar Rig like this may waste CPU and memory if you line them up in sequence (effectively emulating what could be done in a single instance of Guitar Rig).
 
