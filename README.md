@@ -1,6 +1,6 @@
 # Guitar Rig 5 for Ableton Live
 
-![](https://github.com/rne/guitar-rig-5/master/guitar-rig-5.png)
+![](https://raw.github.com/rne/guitar-rig-5/master/guitar-rig-5.png)
 
 This is a collection of **Ableton Live Audio Effect Racks** wrapping **Native Instruments Guitar Rig 5**. **Each Guitar Rig effect is contained in a single rack**, with its default preset and eight macros already set up.
 
