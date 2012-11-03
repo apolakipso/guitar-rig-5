@@ -6,7 +6,7 @@ This is a collection of **Ableton Live Audio Effect Racks** wrapping **Native In
 
 ## Installation
 
-* **Clone the repository into your Live library**, which is probably here:
+* **[Download](https://github.com/downloads/rne/guitar-rig-5/guitar-rig-5-master.zip)** or **[clone](https://github.com/rne/guitar-rig-5.git)** the repository into your Live library, which is probably here:
 	 ```/Users/<you>/Library/Application Support/Ableton/Library/Presets/Audio Effects/Audio Effect Rack/```
 * Let out a sigh of relief as I tell you **the rest of this page is irrelevant**, just open up Live and drag in some Guitar Rig effects.
 
