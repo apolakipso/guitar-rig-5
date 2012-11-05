@@ -33,6 +33,13 @@ Each effect is set up using its default preset with the following exceptions:
 * Most of the non-guitar effects are already present, still missing are the following:
 	* *Amplifiers/*
 	* *Distortion/*
+		* *Fuzz*
+		* *Gain Booster*
+		* *MeZone*
+		* *Skreamer*
+		* *Sledge Hammer*
+		* *TransAmp*
+		* *Treble Booster*
 	* *Pitch/Harmonic Synthesizer* (how do you macro that shit up?)
 * Each rack only ever contains one single effect, so nothing from the Guitar Rig tools and modifier sections is used:
 	* *Modifier/*
