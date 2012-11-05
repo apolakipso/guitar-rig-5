@@ -32,7 +32,6 @@ Each effect is set up using its default preset with the following exceptions:
 ## What's missing?
 * Most of the non-guitar effects are already present, still missing are the following:
 	* *Amplifiers/*
-	* *Cabinets/*
 	* *Distortion/*
 	* *Pitch/Harmonic Synthesizer* (how do you macro that shit up?)
 * Each rack only ever contains one single effect, so nothing from the Guitar Rig tools and modifier sections is used:
