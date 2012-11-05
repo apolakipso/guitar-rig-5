@@ -34,7 +34,6 @@ Each effect is set up using its default preset with the following exceptions:
 	* *Amplifiers/*
 	* *Cabinets/*
 	* *Distortion/*
-	* *EQ/EQ Shelving*
 	* *Pitch/Harmonic Synthesizer* (how do you macro that shit up?)
 * Each rack only ever contains one single effect, so nothing from the Guitar Rig tools and modifier sections is used:
 	* *Modifier/*
